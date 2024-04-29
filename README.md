@@ -1,11 +1,11 @@
 ## GeminiGo
 
-GeminiGo is a CLI tool (REPL) written in Go that allows you to interact with Gemini, a multimodal AI language model developed by Google.
+GeminiGo is a CLI app (REPL) written in Go that allows you to interact with Gemini, a multimodal AI language model developed by Google.
 With GeminiGo, you can ask Gemini questions, have conversations, and generate text.
 
 ### Installation
 
-To install GeminiGo as an executable, you can use the following steps:
+To install and test GeminiGo, you can use the following steps:
 
 1. Clone the GeminiGo repository:
 
